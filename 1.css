@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(131, 30, 131);
+}
+
+table{
+    background-color: pink;
+}
+td [type=text]{
+    background-color: pink;
+}
+submit{
+    background-color: blueviolet;
+}
